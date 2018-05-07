@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
-title: hopefully this worked 
-You can use the [editor on GitHub](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Welcome to the Williams and Brandan Lab anaylsis page!
+Welcome to the Williams and Brendan Lab anaylsis page!
+Below are various calcium and electrophysiology analysis packages 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Analysis Packages 
 
-### Markdown
+### Code
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+The following are links to the origional code from the github creators: 
+[CNMF-E](https://github.com/zhoupc/CNMF_E) - 2016
+[NoRMCorre](https://github.com/flatironinstitute/NoRMCorre) - 2017
+[Cell Registration](https://github.com/zivlab/CellReg) - 2017
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Documentations
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Douglas Mental University Institute  
+The Williams hippocampus and memory laboratory - McGill Univeristy 
 
-### Support or Contact
+The Brandan Lab - McGill University 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In vitro approaches aiming to better understanding individual neuronal function
+and local circuits to in vivo experiments aiming to understand how large neuronal 
+populations code for different aspects of memory.
