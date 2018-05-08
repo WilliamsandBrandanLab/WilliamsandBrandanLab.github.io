@@ -26,7 +26,7 @@ The following are links to the origional code from the github creators:
 #### Code designed within the lab
 
 ## Documentations
-[Cell Registration]
+[CNMF-E] (https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/CNMF%20Manuel%20and%20Flow%20Chart.pdf)
 
 
 ## Douglas Mental University Institute  
