@@ -1,14 +1,8 @@
-
-
-
-
-
-# Welcome to the Williams and Brandan Lab anaylsis page!
+# Welcome to the Williams and Brandan lab anaylsis page!
 Welcome to the Williams and Brendan Lab anaylsis page!
 Below are various calcium and electrophysiology analysis packages 
 
 ## Analysis Packages 
-
 ### Code
 The following are links to the origional code from the github creators: 
 
@@ -20,11 +14,9 @@ The following are links to the origional code from the github creators:
 
 [CNMF-E](https://github.com/zhoupc/CNMF_E) Created by Pengcheng Zhou in 2016
 
-
 #### Code designed within the lab
 
 ```
-
 ### Documentations
 [CNMF-E] (https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/CNMF%20Manuel%20and%20Flow%20Chart.pdf) 
 
