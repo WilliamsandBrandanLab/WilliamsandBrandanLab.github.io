@@ -6,10 +6,7 @@ Below are various calcium and electrophysiology analysis packages
 ### Code
 The following are links to the origional code from the github creators: 
 
-```markdown
 
-
-```
 #### Code designed by outside lab members 
 [Cell Registration](https://github.com/zivlab/CellReg) Created by Ziv Lab in 2017 
 
@@ -20,7 +17,12 @@ The following are links to the origional code from the github creators:
 #### Code designed within the lab
 
 ### Documentations
+```markdown
+
 [CNMF-E] (https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/CNMF%20Manuel%20and%20Flow%20Chart.pdf) 
+
+
+```
 
 
 
