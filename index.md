@@ -19,7 +19,7 @@ The following are links to the origional code from the github creators:
 [NoRMCorre](https://github.com/flatironinstitute/NoRMCorre) - 2017
 [Cell Registration](https://github.com/zivlab/CellReg) - 2017
 ```
-
+[Cell Registration](https://github.com/zivlab/CellReg) 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Documentations
