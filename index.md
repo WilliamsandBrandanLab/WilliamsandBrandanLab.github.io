@@ -10,21 +10,23 @@ Below are various calcium and electrophysiology analysis packages
 ## Analysis Packages 
 
 ### Code
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The following are links to the origional code from the github creators: 
 
 ```markdown
-The following are links to the origional code from the github creators: 
-[CNMF-E](https://github.com/zhoupc/CNMF_E) - 2016
-[NoRMCorre](https://github.com/flatironinstitute/NoRMCorre) - 2017
-[Cell Registration](https://github.com/zivlab/CellReg) - 2017
+
 ```
-[Cell Registration](https://github.com/zivlab/CellReg) 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Code designed by outside lab members 
+[Cell Registration](https://github.com/zivlab/CellReg) Created by ___ in 2017 
+[NoRMCorre](https://github.com/flatironinstitute/NoRMCorre) Created by ___ in 2017
+[CNMF-E](https://github.com/zhoupc/CNMF_E) Created by ___ in 2016
 
-### Documentations
+#### Code designed within the lab
 
-### Douglas Mental University Institute  
+## Documentations
+[Cell Registration]
+
+
+## Douglas Mental University Institute  
 The Williams hippocampus and memory laboratory - McGill Univeristy 
 
 The Brandan Lab - McGill University 
