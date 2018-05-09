@@ -19,10 +19,10 @@ The following are links to the origional code from the github creators:
 ### Documentations
 ```markdown
 
-[CNMF-E] (https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/CNMF%20Manuel%20and%20Flow%20Chart.pdf) 
-
 
 ```
+[CNMF-E] (https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/CNMF%20Manuel%20and%20Flow%20Chart.pdf) 
+
 
 
 
