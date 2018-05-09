@@ -19,9 +19,9 @@ The following are links to the origional code from the github creators:
 
 ### Documentations
 
-[CNMF-E](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/CNMF%20Manuel%20and%20Flow%20Chart.pdf) 
+[CNMF-E](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/CNMF%20Manuel%20and%20Flow%20Chart.pdf) - Tori Rough Copy
 
-[Matlab Guide](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/Matlab%20Guide.pdf) 
+[Matlab Guide](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/Matlab%20Guide.pdf) - Tori Rough Copy 
 
 ### Helpful Papers 
 
