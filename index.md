@@ -23,6 +23,7 @@ The following are links to the origional code from the github creators:
 ```
 [CNMF-E] (https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/CNMF%20Manuel%20and%20Flow%20Chart.pdf) 
 
+### Helpful Papers 
 
 
 
