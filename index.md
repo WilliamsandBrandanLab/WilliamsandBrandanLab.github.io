@@ -20,7 +20,7 @@ The following are links to the origional code from the github creators:
 ### Documentations
 
 [CNMF-E](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/CNMF%20Manuel%20and%20Flow%20Chart.pdf) 
-
+[Matlab Guide] ()
 ### Helpful Papers 
 
 
