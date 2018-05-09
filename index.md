@@ -15,7 +15,7 @@ The following are links to the origional code from the github creators:
 [CNMF-E](https://github.com/zhoupc/CNMF_E) Created by Pengcheng Zhou in 2016
 
 #### Code designed within the lab
-[Miniscope Analysis Package]()
+[Miniscope Analysis Package](https://github.com/WilliamsandBrandanLab/MiniscopeAnalysis)
 
 ### Documentations
 
