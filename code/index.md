@@ -2,7 +2,6 @@
 layout: default
 title: Analysis Code For Calcium Imaging and Electrophysiology
 
-<h1>{{ page.title }}</h1>
 <ul class="posts">
  
   
