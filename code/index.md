@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Analysis Code For Calcium Imaging and Electrophysiology
----
+
 <h1>{{ page.title }}</h1>
 <ul class="posts">
  
@@ -21,4 +21,4 @@ title: Analysis Code For Calcium Imaging and Electrophysiology
 ## Code designed within the lab
 [Miniscope Analysis Package](https://github.com/WilliamsandBrandanLab/MiniscopeAnalysis) - Created by Guillaume Etter in 2018
 
----
+
