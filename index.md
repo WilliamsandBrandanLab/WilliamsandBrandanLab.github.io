@@ -1,12 +1,6 @@
 # Welcome to the Williams and Brandan lab anaylsis page!
-Welcome to the Williams and Brendan Lab anaylsis page!
-Below are various calcium and electrophysiology analysis packages 
-
-
-
-## Douglas Mental Health University Institute  
+## Douglas Mental Health University Institute 
 The Williams hippocampus and memory laboratory - McGill Univeristy 
-
 The Brandan Lab - McGill University 
 
 In vitro approaches aiming to better understanding individual neuronal function
