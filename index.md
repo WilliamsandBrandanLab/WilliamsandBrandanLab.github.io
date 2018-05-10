@@ -14,6 +14,8 @@ The following are links to the origional code from the github creators:
 
 [CNMF-E](https://github.com/zhoupc/CNMF_E) Created by Pengcheng Zhou in 2016
 
+[msRun](https://github.com/daharoni/Miniscope_Analysis) - Daniel Aharoni in 2016
+
 #### Code designed within the lab
 [Miniscope Analysis Package](https://github.com/WilliamsandBrandanLab/MiniscopeAnalysis) - Created by Guillaume Etter in 2018
 
@@ -25,11 +27,11 @@ The following are links to the origional code from the github creators:
 
 ### Helpful Papers 
 
-[Efficient and accurate extraction of in vivo calcium signals from microendoscopic video data](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/Ef%EF%AC%81cient%20and%20accurate%20extraction%20of%20in%20vivo%20calcium%20signals%20from%20microendoscopic%20video%20data.pdf) - Pengcheng Zhou 2016 
+[Efficient and accurate extraction of in vivo calcium signals from microendoscopic video data](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/Ef%EF%AC%81cient%20and%20accurate%20extraction%20of%20in%20vivo%20calcium%20signals%20from%20microendoscopic%20video%20data.pdf) - Pengcheng Zhou in 2016 
 
-[Tracking the Same Neurons across Multiple Days in Ca2+ Imaging Data](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/tracking_cells_across_time_Ziv.pdf) - Yaniv Ziv 2017
+[Tracking the Same Neurons across Multiple Days in Ca2+ Imaging Data](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/tracking_cells_across_time_Ziv.pdf) - Yaniv Ziv in 2017
 
-[Fast non-negative deconvolution for spike train inference from population clacium imaging](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/vogelstein-fast.pdf) - Joshua T. Vogelstein 2010
+[Fast non-negative deconvolution for spike train inference from population clacium imaging](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/vogelstein-fast.pdf) - Joshua T. Vogelstein in 2010
 
 ## Douglas Mental University Institute  
 The Williams hippocampus and memory laboratory - McGill Univeristy 
