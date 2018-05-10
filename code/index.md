@@ -1,7 +1,9 @@
-
+#Analysis code for calcium imaging and electrophysiology
  
-  
-## Code designed by outside lab members 
+### Code designed within the lab
+[Miniscope Analysis Package](https://github.com/WilliamsandBrandanLab/MiniscopeAnalysis) - Created by Guillaume Etter in 2018 
+
+### Code designed by outside lab members 
 
 [Cell Registration](https://github.com/zivlab/CellReg) Created by Ziv Lab in 2017 
 
@@ -13,7 +15,6 @@
 
 [MLSpike](https://github.com/thomasdeneux/spikes) - Thomas Deneux in 2016 
 
-## Code designed within the lab
-[Miniscope Analysis Package](https://github.com/WilliamsandBrandanLab/MiniscopeAnalysis) - Created by Guillaume Etter in 2018
+
 
 
