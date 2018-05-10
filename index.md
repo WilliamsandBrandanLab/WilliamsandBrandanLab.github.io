@@ -14,7 +14,9 @@ The following are links to the origional code from the github creators:
 
 [CNMF-E](https://github.com/zhoupc/CNMF_E) Created by Pengcheng Zhou in 2016
 
-[msRun](https://github.com/daharoni/Miniscope_Analysis) - Daniel Aharoni in 2016
+[msRun](https://github.com/daharoni/Miniscope_Analysis) - Daniel Aharoni in 2016 
+
+[MLSpike](https://github.com/thomasdeneux/spikes) - Thomas Deneux in 2016 
 
 #### Code designed within the lab
 [Miniscope Analysis Package](https://github.com/WilliamsandBrandanLab/MiniscopeAnalysis) - Created by Guillaume Etter in 2018
@@ -32,6 +34,8 @@ The following are links to the origional code from the github creators:
 [Tracking the Same Neurons across Multiple Days in Ca2+ Imaging Data](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/tracking_cells_across_time_Ziv.pdf) - Yaniv Ziv in 2017
 
 [Fast non-negative deconvolution for spike train inference from population clacium imaging](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/vogelstein-fast.pdf) - Joshua T. Vogelstein in 2010
+
+[Accurate spike estimation from noisy calcium signals for ultrafast three-dimensional imaging of large neuronal populations in vivo](https://www.nature.com/articles/ncomms12190.pdf) Thomas Deneux - 2016
 
 ## Douglas Mental University Institute  
 The Williams hippocampus and memory laboratory - McGill Univeristy 
