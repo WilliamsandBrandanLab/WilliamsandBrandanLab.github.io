@@ -1,4 +1,6 @@
-#Analysis code for calcium imaging and electrophysiology
+
+# Analysis Code for calcium imaging and electrophysiology
+
  
 ### Code designed within the lab
 [Miniscope Analysis Package](https://github.com/WilliamsandBrandanLab/MiniscopeAnalysis) - Created by Guillaume Etter in 2018 
