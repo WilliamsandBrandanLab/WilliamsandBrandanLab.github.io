@@ -3,9 +3,6 @@ Welcome to the Williams and Brendan Lab anaylsis page!
 Below are various calcium and electrophysiology analysis packages 
 
 ## Analysis Packages 
-### Code
-The following are links to the origional code from the github creators: 
-
 
 #### Code designed by outside lab members 
 [Cell Registration](https://github.com/zivlab/CellReg) Created by Ziv Lab in 2017 
@@ -21,13 +18,13 @@ The following are links to the origional code from the github creators:
 #### Code designed within the lab
 [Miniscope Analysis Package](https://github.com/WilliamsandBrandanLab/MiniscopeAnalysis) - Created by Guillaume Etter in 2018
 
-### Documentations
+## Documentations
 
 [CNMF-E](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/CNMF%20Manuel%20and%20Flow%20Chart.pdf) - Tori Rough Copy
 
 [Matlab Guide](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/Matlab%20Guide.pdf) - Tori Rough Copy 
 
-### Helpful Papers 
+## Helpful Papers 
 
 [Efficient and accurate extraction of in vivo calcium signals from microendoscopic video data](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/Ef%EF%AC%81cient%20and%20accurate%20extraction%20of%20in%20vivo%20calcium%20signals%20from%20microendoscopic%20video%20data.pdf) - Pengcheng Zhou in 2016 
 
