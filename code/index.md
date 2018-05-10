@@ -5,7 +5,9 @@ title: Analysis Code For Calcium Imaging and Electrophysiology
 <h1>{{ page.title }}</h1>
 <ul class="posts">
 ---  
+  
 ## Code designed by outside lab members 
+
 [Cell Registration](https://github.com/zivlab/CellReg) Created by Ziv Lab in 2017 
 
 [NoRMCorre](https://github.com/flatironinstitute/NoRMCorre) Created by Flatiron Institute in 2017
@@ -18,4 +20,5 @@ title: Analysis Code For Calcium Imaging and Electrophysiology
 
 ## Code designed within the lab
 [Miniscope Analysis Package](https://github.com/WilliamsandBrandanLab/MiniscopeAnalysis) - Created by Guillaume Etter in 2018
+
 ---
