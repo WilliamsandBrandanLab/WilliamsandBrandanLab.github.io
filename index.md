@@ -35,9 +35,9 @@ The following are links to the origional code from the github creators:
 
 [Fast non-negative deconvolution for spike train inference from population clacium imaging](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/vogelstein-fast.pdf) - Joshua T. Vogelstein in 2010
 
-[Accurate spike estimation from noisy calcium signals for ultrafast three-dimensional imaging of large neuronal populations in vivo](https://www.nature.com/articles/ncomms12190.pdf) Thomas Deneux - 2016
+[Accurate spike estimation from noisy calcium signals for ultrafast three-dimensional imaging of large neuronal populations in vivo](https://www.nature.com/articles/ncomms12190.pdf) - Thomas Deneux in 2016
 
-## Douglas Mental University Institute  
+## Douglas Mental Health University Institute  
 The Williams hippocampus and memory laboratory - McGill Univeristy 
 
 The Brandan Lab - McGill University 
