@@ -4,7 +4,7 @@ title: Analysis Code For Calcium Imaging and Electrophysiology
 ---
 <h1>{{ page.title }}</h1>
 <ul class="posts">
----  
+ 
   
 ## Code designed by outside lab members 
 
