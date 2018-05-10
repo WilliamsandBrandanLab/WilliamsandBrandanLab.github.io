@@ -1,0 +1,15 @@
+---
+layout: feed
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Analysis code used for calcium imaging and electrophysiology</title>
+	<link href="https://williamsandbrandanlab.github.io/code/atom.xml" rel="self"/>
+	<link href="https://williamsandbrandanlab.github.io/code"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+	<id>https://williamsandbrandanlab.github.io/code</id>
+	<author>
+		<name>Williams and Brandan Lab</name>
+		<email>templetorilynn@gmail.com</email>
+	</author>
