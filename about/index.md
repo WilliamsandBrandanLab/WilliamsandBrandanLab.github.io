@@ -1,4 +1,5 @@
-#About 
+# About 
+
 The lab is located at the Douglas Mental Health University Institute, a research center part of McGill University in 
 Montreal. The lab has evolved significantly since the labs inception from in vitro approaches aiming to better
 understanding individual neuronal function and local circuits to in vivo experiments aiming to understand how 
