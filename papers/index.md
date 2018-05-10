@@ -1,4 +1,4 @@
-# Documentation to help understand the analysis packages 
+# Papers written incorporating different analysis packages 
 
 
 [Efficient and accurate extraction of in vivo calcium signals from microendoscopic video data](https://github.com/WilliamsandBrandanLab/WilliamsandBrandanLab.github.io/blob/master/Ef%EF%AC%81cient%20and%20accurate%20extraction%20of%20in%20vivo%20calcium%20signals%20from%20microendoscopic%20video%20data.pdf) - Pengcheng Zhou in 2016 
