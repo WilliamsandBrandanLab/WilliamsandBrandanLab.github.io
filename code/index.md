@@ -1,8 +1,4 @@
----
-layout: default
-title: Analysis Code For Calcium Imaging and Electrophysiology
 
-<ul class="posts">
  
   
 ## Code designed by outside lab members 
