@@ -4,22 +4,22 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>Williams and Brandan Lab's Blog</title>
-	<link href="https://williamsandbrandanlab.github.io/documentation/atom.xml" rel="self"/>
-	<link href="https://williamsandbrandanlab.github.io/ocumentation"/>
+	<title>Williams and Brandon Lab's Blog</title>
+	<link href="https://williamsandbrandonlab.github.io/documentation/atom.xml" rel="self"/>
+	<link href="https://williamsandbrandonlab.github.io/ocumentation"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>https://williamsandbrandanlab.github.io/ocumentation</id>
+	<id>https://williamsandbrandonlab.github.io/documentation</id>
 	<author>
-		<name>Williams and Brandan Lab</name>
+		<name>Williams and Brandon Lab</name>
 		<email>templetorilynn@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
-			<link href="https://williamsandbrandanlab.github.io{{ post.url }}"/>
+			<link href="https://williamsandbrandonlab.github.io{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<id>https://williamsandbrandanlab.github.io{{ post.id }}</id>
+			<id>https://williamsandbrandonlab.github.io{{ post.id }}</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
 	{% endfor %}
