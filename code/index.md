@@ -3,7 +3,7 @@
 
  
 ### Code designed within the lab
-[Miniscope Analysis Package](https://github.com/WilliamsandBrandanLab/MiniscopeAnalysis) - Created by Guillaume Etter in 2018 
+[Miniscope Analysis Package](https://github.com/etterguillaume/MiniscopeAnalysis) - Created by Guillaume Etter in 2018 
 
 ### Code designed by outside lab members 
 
