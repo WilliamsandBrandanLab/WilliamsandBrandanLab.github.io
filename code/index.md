@@ -4,6 +4,7 @@
  
 ### Code designed within the lab
 [Miniscope Analysis Package](https://github.com/etterguillaume/MiniscopeAnalysis) - Created by Guillaume Etter in 2018 
+[Miniscope Analysis Concatenation Package](https://github.com/torilynntemple/MiniscopeAnalysisConcatenation) - Created by Tori-Lynn Temple in 2018
 
 ### Code designed by outside lab members 
 
