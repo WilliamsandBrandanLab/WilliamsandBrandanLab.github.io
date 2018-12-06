@@ -1,6 +1,6 @@
 # Welcome to the Williams and Brandon Lab anaylsis page!
 ## Douglas Mental Health University Institute 
-The Williams hippocampus and memory laboratory - McGill Univeristy 
+The Williams hippocampus and memory laboratory - McGill University 
 
 The Brandon Lab - McGill University 
 
