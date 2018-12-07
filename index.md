@@ -6,4 +6,4 @@ You will find links to papers, programs, and coding packages used to help with a
 
 
 
-<img class="wp-image-451 aligncenter" src="/images/banner.PNG" alt=""  align ="middle">
+<img src="/images/banner.PNG" alt=""  align ="middle">
