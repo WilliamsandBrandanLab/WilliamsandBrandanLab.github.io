@@ -5,7 +5,7 @@ Montreal. The lab has evolved significantly since the labs inception from in vit
 understanding individual neuronal function and local circuits to in vivo experiments aiming to understand how 
 large neuronal populations code for different aspects of memory. At the beginning, we used brain slices to identify 
 and differentiate neuronal populations of the hippocampus and the medial septum, two brain regions critical for
-learning and memory. For example, we initially discoveredin the medial septum a new population of neurons using 
+learning and memory. For example, we initially discovered in the medial septum a new population of neurons using 
 glutamate as a transmitter(Sotty et al., 2003). These neurons were also shown to send projections to many different
 brain areas including the hippocampus. Later on, we developed the isolated hippocampus preparation and the isolated 
 septo-hippocampus preparation (Goutagny et al., 2009). These preparations were extremely valuable because it 
