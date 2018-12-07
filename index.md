@@ -6,7 +6,6 @@ You will find links to papers, programs, and coding packages used to help with a
 
 
 
-<body style="text-align: center;">
-  <img 
-       src="/images/banner.PNG"  align ="middle">
-</body>
+
+  <img src="/images/banner.PNG"  align ="middle">
+
