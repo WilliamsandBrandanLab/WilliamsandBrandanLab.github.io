@@ -15,7 +15,7 @@
 
 [CNMF-E](https://github.com/zhoupc/CNMF_E) Created by Pengcheng Zhou in 2016
 
-[msRun](https://github.com/daharoni/Miniscope_Analysis) - Daniel Aharoni in 2016 
+[msRun](https://github.com/daharoni/Miniscope_Analysis) - Created by Daniel Aharoni in 2016 
 
 
 
