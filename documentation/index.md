@@ -1,6 +1,6 @@
 # Helpful documentations and platform information 
 Instructions on how to download and start playing around with Bonsa. 
-[The Downloading link](https://bonsai-rx.org//docs/installation/) - Bonsai Installation 
+[The Downloading link](https://bonsai-rx.org//docs/installation/) 
 
 [The open ephys website for useful information on how to use it](http://www.open-ephys.org/bonsai/) - Open Ephys
 
