@@ -26,7 +26,7 @@ normal memory function in normal and in pathological conditions such as Alzheime
 
 # Mark Brandon
 
-[Neurobiologyu of spatial memory in health and disease](https://brandonlab.weebly.com/)
+[Neurobiology of spatial memory in health and disease](https://brandonlab.weebly.com/)
 
 <img src="/images/6799980.png" alt="">
 
