@@ -1,5 +1,5 @@
 
-# Analysis Code for calcium imaging and electrophysiology
+# Packages written for calcium imaging, electrophysiology, and behavorial analysis
 
  
 ### Code designed within the lab
