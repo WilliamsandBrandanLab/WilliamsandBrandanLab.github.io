@@ -18,5 +18,5 @@ optogenetics and electrophysiology in freely moving mice performing memory tasks
 these neurons in sleep (Boyce et al., 2016). The overarching goal is to understand the neuronal mechanisms underlying
 normal memory function in normal and in pathological conditions such as Alzheimer’s disease inmice models.
 
-markdown
-![Images](images/sylvain.jpg) 
+<img src="/images/sylvain.jpg" alt="">
+
