@@ -19,3 +19,4 @@ these neurons in sleep (Boyce et al., 2016). The overarching goal is to understa
 normal memory function in normal and in pathological conditions such as Alzheimer’s disease inmice models.
 
  
+<img src="sylvain.jpg" alt="hi" class="inline"/>
