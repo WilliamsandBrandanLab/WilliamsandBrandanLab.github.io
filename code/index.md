@@ -17,7 +17,6 @@
 
 [msRun](https://github.com/daharoni/Miniscope_Analysis) - Daniel Aharoni in 2016 
 
-[MLSpike](https://github.com/thomasdeneux/spikes) - Thomas Deneux in 2016 
 
 
 
