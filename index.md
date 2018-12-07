@@ -6,4 +6,14 @@ You will find links to papers, programs, and coding packages used to help with a
 
 
 
-<div style="text-align: center"><img src="/images/banner.PNG" alt=""  align ="middle"></div>
+<body style="text-align: center;">
+  <img 
+       src="/images/banner.PNG" alt="" 
+       align ="middle"
+      
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          z-index: 1;"
+          >
+</body>
