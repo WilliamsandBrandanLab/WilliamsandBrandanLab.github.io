@@ -1,4 +1,4 @@
-# Welcome to the Williams and Brandon Lab anaylsis website!
+# Welcome to the Williams and Brandon lab anaylsis website!
 ## Douglas Mental Health University Institute 
 
 Our conjoined source of information and code for both the Williams and Brandon laboratory at Douglas Hospital. 
