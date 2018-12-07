@@ -4,7 +4,7 @@ Instructions on how to download and start playing around with Bonsa.
 
 [Useful information on how to use Bonsai](http://www.open-ephys.org/bonsai/) - Open Ephys
 
-[Discussion Group](https://groups.google.com/forum/#!forum/bonsai-users) - Any questions regarding bonsai can be asked here
+[Discussion Group](https://groups.google.com/forum/#!forum/bonsai-users) - Any questions regarding Bonsai can be asked here
 
 [Downloading the UCLA miniscope package for Bonsai](https://github.com/jonnew/Bonsai.Miniscope ) 
 
