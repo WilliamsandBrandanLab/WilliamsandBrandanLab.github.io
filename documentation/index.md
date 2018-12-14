@@ -6,7 +6,7 @@ Instructions on how to download and start playing around with Bonsai.
 
 [Discussion Group](https://groups.google.com/forum/#!forum/bonsai-users) - Any questions regarding Bonsai can be asked here
 
-[Downloading the UCLA miniscope package for Bonsai](https://github.com/jonnew/Bonsai.Miniscope ) 
+[download the UCLA miniscope package for Bonsai](https://github.com/jonnew/Bonsai.Miniscope ) 
 
 
 
